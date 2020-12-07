@@ -38,7 +38,7 @@
     <PackageProjectUrl>https://github.com/augustoproiete/dotnet-args</PackageProjectUrl>
     <PackageReleaseNotes>https://github.com/augustoproiete/dotnet-args/releases</PackageReleaseNotes>
     <RepositoryType>git</RepositoryType>
-    <RepositoryUrl>https://github.com/augustoproiete/dotnet-args</RepositoryUrl>
+    <RepositoryUrl>https://github.com/augustoproiete/dotnet-args.git</RepositoryUrl>
 
     <PackAsTool>true</PackAsTool>
     <ToolCommandName>dotnet-args</ToolCommandName>
