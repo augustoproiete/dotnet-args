@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "asset", "asset", "{1CCFF167-FBC6-455E-877D-2DC4E0FCA4FD}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		build.cake = build.cake
+		build.cmd = build.cmd
+		build.ps1 = build.ps1
+		build.sh = build.sh
+		cake.config = cake.config
+		CHANGES.md = CHANGES.md
+		CODEOWNERS = CODEOWNERS
+		global.json = global.json
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{4FE2DCAA-B49C-4BA1-AA0F-3EB18B2B79C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet.Args", "src\DotNet.Args\DotNet.Args.csproj", "{23270C40-D4A8-4476-89AB-EB728EB47A3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23270C40-D4A8-4476-89AB-EB728EB47A3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23270C40-D4A8-4476-89AB-EB728EB47A3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23270C40-D4A8-4476-89AB-EB728EB47A3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23270C40-D4A8-4476-89AB-EB728EB47A3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{23270C40-D4A8-4476-89AB-EB728EB47A3C} = {4FE2DCAA-B49C-4BA1-AA0F-3EB18B2B79C2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17576FFB-5E4D-4D35-B68F-9F738F8CE174}
+	EndGlobalSection
+EndGlobal
