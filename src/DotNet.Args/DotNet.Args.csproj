@@ -4,7 +4,7 @@
     <TargetFrameworks>net5.0;netcoreapp3.1;netcoreapp2.1</TargetFrameworks>
     <RootNamespace>DotNet.Args</RootNamespace>
     <OutputType>Exe</OutputType>
-    <ApplicationIcon>..\..\asset\dotnet-args-version.ico</ApplicationIcon>
+    <ApplicationIcon>..\..\asset\dotnet-args.ico</ApplicationIcon>
 
     <AssemblyName>dotnet-args</AssemblyName>
     <AssemblyVersion>0.0.1.0</AssemblyVersion>
