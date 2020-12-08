@@ -12,7 +12,7 @@
 
  Cross-platform .NET CLI Tool that prints the command-line arguments it receives, to help debug scripts and apps.
 
-[![NuGet Version](http://img.shields.io/nuget/v/dotnet-args.svg?style=flat-square)](https://www.nuget.org/packages/dotnet-args/) [![.NET](https://img.shields.io/badge/.NET%20-%3E%3D%205.0-informational)](https://dotnet.microsoft.com/download) [![.NET Core](https://img.shields.io/badge/.NET%20Core-%3E%3D%202.1-informational)](https://dotnet.microsoft.com/download) [![Stack Overflow](https://img.shields.io/badge/stack%20overflow-dotnet--tool-orange.svg?style=flat-square)](http://stackoverflow.com/questions/tagged/dotnet-tool)
+[![NuGet Version](http://img.shields.io/nuget/v/dotnet-args.svg?style=flat-square)](https://www.nuget.org/packages/dotnet-args/) [![.NET](https://img.shields.io/badge/.NET%20-%3E%3D%205.0-512bd4)](https://dotnet.microsoft.com/download) [![.NET Core](https://img.shields.io/badge/.NET%20Core-%3E%3D%202.1-512bd4)](https://dotnet.microsoft.com/download) [![Stack Overflow](https://img.shields.io/badge/stack%20overflow-dotnet--tool-orange.svg?style=flat-square)](http://stackoverflow.com/questions/tagged/dotnet-tool)
 
 ![Screenshot of dotnet-args in action](asset/dotnet-args-screenshot.png)
 
