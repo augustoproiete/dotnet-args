@@ -59,4 +59,4 @@ Click on the [Releases](https://github.com/augustoproiete/dotnet-args/releases) 
 
 ---
 
-_Copyright &copy; 2020 C. Augusto Proiete & Contributors - Provided under the [Apache License, Version 2.0](LICENSE). `dotnet-args` logo is a derivative of work by [Goescat Wei](https://www.iconfinder.com/goescat) ([original](https://www.iconfinder.com/icons/3246759/cli_command_root_software_terminal_icon))._
+_Copyright &copy; 2020-2021 C. Augusto Proiete & Contributors - Provided under the [Apache License, Version 2.0](LICENSE). `dotnet-args` logo is a derivative of work by [Goescat Wei](https://www.iconfinder.com/goescat) ([original](https://www.iconfinder.com/icons/3246759/cli_command_root_software_terminal_icon))._
