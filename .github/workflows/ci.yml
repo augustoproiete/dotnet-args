@@ -24,7 +24,6 @@ jobs:
         job:
           - os: ubuntu-18.04
             build: ./build.sh
-            push: true
           - os: ubuntu-20.04
             build: ./build.sh
             push: true
@@ -42,7 +41,7 @@ jobs:
       - name: Setup net6.0
         uses: actions/setup-dotnet@v1.8.2
         with:
-          dotnet-version: "6.0.100-rc.1.21463.6"
+          dotnet-version: "6.0.100"
       - name: Run dotnet --info
         run: dotnet --info
       - uses: actions/checkout@v2.4.0
