@@ -30,10 +30,12 @@ Another example where `dotnet-args` can be useful is when writing scripts for mu
 
 ## Prerequisites
 
-**dotnet-args** runs on Windows, OSX, and Linux and requires one of the following versions of .NET:
-- .NET 5.0 or higher
-- .NET Core 3.1 or higher
-- .NET Core 2.1 or higher
+The latest version of **dotnet-args** runs on Windows, OSX, and Linux using one of the following versions of .NET:
+- .NET 7.0
+- .NET 6.0
+- .NET 5.0
+- .NET Core 3.1
+- .NET Core 2.1
 
 ## Getting started :rocket:
 
@@ -59,4 +61,4 @@ Click on the [Releases](https://github.com/augustoproiete/dotnet-args/releases) 
 
 ---
 
-_Copyright &copy; 2020-2021 C. Augusto Proiete & Contributors - Provided under the [Apache License, Version 2.0](LICENSE). `dotnet-args` logo is a derivative of work by [Goescat Wei](https://www.iconfinder.com/goescat) ([original](https://www.iconfinder.com/icons/3246759/cli_command_root_software_terminal_icon))._
+_Copyright &copy; 2020-2022 C. Augusto Proiete & Contributors - Provided under the [Apache License, Version 2.0](LICENSE). `dotnet-args` logo is a derivative of work by [Goescat Wei](https://www.iconfinder.com/goescat) ([original](https://www.iconfinder.com/icons/3246759/cli_command_root_software_terminal_icon))._
