@@ -30,7 +30,7 @@
     <Authors>C. Augusto Proiete &amp; Contributors</Authors>
     <Company>augustoproiete.net</Company>
     <Description>.NET CLI Tool that prints the command-line arguments it receives, to help debug scripts and apps.</Description>
-    <Copyright>Copyright 2020-2022 C. Augusto Proiete &amp; Contributors - Provided under the Apache License, Version 2.0</Copyright>
+    <Copyright>Copyright 2020-2023 C. Augusto Proiete &amp; Contributors - Provided under the Apache License, Version 2.0</Copyright>
     <PackageTags>args;dotnet;tool;dotnet-tool;dotnet-args;args;command-line;scripts</PackageTags>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <PackageIcon>images\icon.png</PackageIcon>
